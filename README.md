@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Creating high-quality, custom solutions that meet the needs of clients and end-users<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Javascript frameworks including Next.js, Nuxt.js, Angular, Node.js, and so on.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, WordPress, Shopify, and any general web development questions.<br><br>⚡ Fun fact:<br>I love creating content.
+🔭 I’m currently working on:<br>Creating high-quality, custom solutions that meet the needs of clients and end-users<br><br>👯 I’m looking to collaborate on:<br>Fullstack projects<br><br>🌱 I’m currently learning:<br>Javascript frameworks including Next.js, Nuxt.js, Angular, Node.js, and so on.<br><br>💬 Ask me about:<br>JavaScript, React, Nextjs, WordPress, Shopify, and any general web development questions.<br><br>⚡ Fun fact:<br>I think I am a quick learner.
 
 
 ## 🌐 Socials:
